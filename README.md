@@ -19,7 +19,7 @@ Other related videos:
 - TaskGen Ask Me Anything: https://www.youtube.com/watch?v=mheIWKugqF4
 
 Outreach / Consultancy Services:
-- As part of our outreach efforts, we are actively providing consultation services to integrate TaskGen into your production pipelines. Contact [John](https://www.linkedin.com/in/john-chong-min-tan-94652288/) or [Brian](https://www.linkedin.com/in/brianlimyisheng/) to schedule an appointment!
+- As part of our outreach efforts, we are actively providing consultation services to integrate TaskGen into your production pipelines. Contact [John](https://www.linkedin.com/in/john-chong-min-tan-94652288/) or [Brian](https://www.linkedin.com/in/brianlimyisheng/) or [Richard Cottrill](https://www.linkedin.com/in/richardc/) to schedule an appointment!
 
 ### Creator's Preamble
 Happy to share that the task-based agentic framework I have been working on - TaskGen - is largely complete! 
