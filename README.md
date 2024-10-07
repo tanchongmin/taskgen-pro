@@ -2,7 +2,7 @@
 ### A Task-based agentic framework building on StrictJSON outputs by LLM agents
 #### An Open Source Initiative Led by [John Tan Chong Min](https://www.linkedin.com/in/john-chong-min-tan-94652288/)
 
-- TaskGen Pro is the general version of TaskGen. For the earlier, more cybersecurity-use case implementation (Feb - Oct 2024), refer to TaskGen Simbian (https://github.com/simbianai/taskgen).
+- TaskGen Pro is the general version of TaskGen. For the earlier, more cybersecurity-use case implementation, refer to TaskGen Simbian (https://github.com/simbianai/taskgen).
 
 ![TaskGen Overview](./resources/TaskGen_Overview.png)
 
